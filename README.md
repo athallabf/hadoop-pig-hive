@@ -1,3 +1,5 @@
+github.com/athallabf/hadoop-pig-hive
+
 1. docker pull silicoflare/hadoop:amd
 2. docker tag silicoflare/hadoop:amd hadoop
 3. docker run -it -p 9870:9870 -p 8088:8088 -p 9864:9864 --name hadoop-container-2 hadoop
